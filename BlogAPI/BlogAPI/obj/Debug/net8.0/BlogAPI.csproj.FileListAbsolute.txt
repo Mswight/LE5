@@ -1,0 +1,72 @@
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\bin\Debug\net8.0\appsettings.json
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\bin\Debug\net8.0\BlogAPI.staticwebassets.endpoints.json
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\bin\Debug\net8.0\BlogAPI.exe
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\bin\Debug\net8.0\BlogAPI.deps.json
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\bin\Debug\net8.0\BlogAPI.runtimeconfig.json
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\bin\Debug\net8.0\BlogAPI.dll
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\bin\Debug\net8.0\BlogAPI.pdb
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.csproj.AssemblyReference.cache
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.AssemblyInfoInputs.cache
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.AssemblyInfo.cs
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.csproj.CoreCompileInputs.cache
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.sourcelink.json
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\scopedcss\bundle\BlogAPI.styles.css
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.csproj.Up2Date
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.dll
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\refint\BlogAPI.dll
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.pdb
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.genruntimeconfig.cache
+D:\2025 Mapua\ZULUETALE4\BlogAPI\BlogAPI\obj\Debug\net8.0\ref\BlogAPI.dll
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\bin\Debug\net8.0\BlogAPI.staticwebassets.endpoints.json
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\bin\Debug\net8.0\BlogAPI.exe
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\bin\Debug\net8.0\BlogAPI.deps.json
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\bin\Debug\net8.0\BlogAPI.runtimeconfig.json
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\bin\Debug\net8.0\BlogAPI.dll
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\bin\Debug\net8.0\BlogAPI.pdb
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.csproj.AssemblyReference.cache
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.AssemblyInfoInputs.cache
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.AssemblyInfo.cs
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.csproj.CoreCompileInputs.cache
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.sourcelink.json
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\scopedcss\bundle\BlogAPI.styles.css
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.csproj.Up2Date
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.dll
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\refint\BlogAPI.dll
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.pdb
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\BlogAPI.genruntimeconfig.cache
+C:\Users\Justa\source\repos\BlogAPI\BlogAPI\obj\Debug\net8.0\ref\BlogAPI.dll
